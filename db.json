@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 7
+      "likes": 8
     },
     {
       "id": 2,
@@ -40,12 +40,12 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 3
+      "likes": 5
     },
     {
       "name": "Test toy",
-      "image": "https://www.hdwallpaper.nu/wp-content/uploads/2016/07/toy_story_wallpaper29983.jpg",
-      "likes": 0,
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstrangersandaliens.com%2Fwp-content%2Fuploads%2F2013%2F12%2Ftoystory.jpg&f=1&nofb=1",
+      "likes": 2,
       "id": 9
     }
   ]
