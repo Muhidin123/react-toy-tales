@@ -5,8 +5,6 @@ import React, { Component } from "react";
 export default class ToyContainer extends Component {
   constructor(props) {
     super(props);
-
-    this.state = {};
   }
 
   render() {
@@ -25,21 +23,3 @@ export default class ToyContainer extends Component {
     );
   }
 }
-
-// const ToyContainer = () => {
-
-//   // constructor(props) {
-//   //   super(props)
-
-//   // }
-//   // render(){
-//   return(
-//     <div id="toy-collection">
-//       {props.toys.map(toy => {
-
-//       })}
-//     </div>
-//   );
-// }
-
-// export default ToyContainer;

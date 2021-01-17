@@ -42,7 +42,7 @@ class App extends React.Component {
   };
 
   handleDelete = (id) => {
-    fetch("http://localhost:3001/toys/9", {
+    fetch(`http://localhost:3001/toys/${id}`, {
       method: "DELETE",
     }).then(console.log("Deleted"));
 

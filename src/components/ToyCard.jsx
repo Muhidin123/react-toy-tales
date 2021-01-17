@@ -37,13 +37,6 @@ class ToyCard extends Component {
     }
   }
 
-  // handleDelete = () => {
-  //   return fetch(
-  //     `http://localhost:3001/toys/${this.state.id}`,
-  //     "DELETE"
-  //   );
-  // };
-
   render() {
     const { name, image } = this.props.toy;
     return (
